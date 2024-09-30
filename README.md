@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+%F0%9F%91%8B;Myself+Nithesh+Here....;Nice+to+see+you+on+this+page!&center=true&size=30&color=0CECDD&width=550&height=80">
+  </a>
+</h1> 
+<h3 align="center">A passionate full stack developer from India</h3>
 # 💫 About Me:
 🔭 I’m currently working on Logistics Website [Full Stack]<br>👯 I’m looking to collaborate on Open Source [GSoC]<br>🌱 I’m currently learning Data Structure and Machine Learning<br>💬 Check out My Blog Website 🔗[Mindnmedia.in](https://mindnmedia.in)<br>⚡ Passionate about Coding && Caffeine
 
