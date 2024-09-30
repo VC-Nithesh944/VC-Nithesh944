@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Logistics Website [Full Stack]<br>👯 I’m looking to collaborate on Open Source [GSoC]<br>🌱 I’m currently learning Data Structure and Machine Learning<br>💬 Check out My Blog Website 🔗Mindnmedia.in<br>⚡ Passionate about Coding && Caffeine
+🔭 I’m currently working on Logistics Website [Full Stack]<br>👯 I’m looking to collaborate on Open Source [GSoC]<br>🌱 I’m currently learning Data Structure and Machine Learning<br>💬 Check out My Blog Website 🔗[![Mindnmedia.in]](https://mindnmedia.in)<br>⚡ Passionate about Coding && Caffeine
 
 
 ## 🌐 Socials:
