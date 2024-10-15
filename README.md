@@ -6,7 +6,7 @@
 <h3 align="center">A passionate full stack developer from India</h3> 
 
 # 💫 About Me:
-🔭 I’m currently working on Logistics Website [Full Stack]<br>👯 I’m looking to collaborate on Open Source [GSoC]<br>🌱 I’m currently learning Data Structure and Machine Learning<br>💬 Check out My Blog Website 🔗[Mindnmedia.in](https://mindnmedia.in)<br>⚡ Passionate about Coding && Caffeine
+🔥Check out my New Blog #6: [Dopamine!! The Journey of Silent Villain to The Secret Hero](https://mindnmedia.in/dopamine-the-journey-of-silent-villain-to-the-secret-hero/).<br> 🔭 I’m currently working on Logistics Website [Full Stack]<br>👯 I’m looking to collaborate on Open Source [GSoC]<br>🌱 I’m currently learning Data Structure and Machine Learning<br>💬 Check out My Blog Website 🔗[Mindnmedia.in](https://mindnmedia.in)<br>⚡ Passionate about Coding && Caffeine
 
 
 ## 🌐 Socials:
