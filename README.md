@@ -26,14 +26,16 @@
 <tr border="none">
 <td width="50%" align="center">
   
-# 📊 GitHub Stats:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 ![](https://github-readme-stats.vercel.app/api?username=VC-Nithesh944&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<br><br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VC-Nithesh944&theme=neon&hide_border=false)<br/>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<br><br>
 
 </td>
 <td width="50%" align="center">
