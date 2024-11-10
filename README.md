@@ -32,11 +32,6 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <br><br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=VC-Nithesh944&theme=neon&hide_border=false)<br/>
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-<br><br>
-
 </td>
 <td width="50%" align="center">
 
