@@ -31,7 +31,9 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <br><br>
+![image](https://user-images.githubusercontent.com/20955511/233865257-3ed2bd35-458b-46bc-a189-57b0c8a2a473.png)
 
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 </td>
 <td width="50%" align="center">
 
